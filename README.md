@@ -26,4 +26,4 @@ This project includes three algorithm implementations using PHP, HTML, CSS, and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/algorithm-project.git
+   git clone https://github.com/Youssefkhaled74/algorithm-project.git

@@ -6,11 +6,11 @@ This project includes three algorithm implementations using PHP, HTML, CSS, and 
 
 1. **Matrix Chain Multiplication**
    - Calculates the minimum number of scalar multiplications needed to multiply a chain of matrices.
-   - Implementation file: `matrix_chain.php`
+   - Implementation file: `Matrix Chain Multiplication.php`
 
 2. **Longest Common Subsequence (LCS)**
    - Finds the length of the longest subsequence present in both sequences.
-   - Implementation file: `lcs.php`
+   - Implementation file: `Longest Common Subsequence.php`
 
 3. **0/1 Knapsack**
    - Determines the maximum value that can be put in a knapsack of a given capacity.
